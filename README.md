@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "theme-fruity"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Fruity Light Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+My **Visual Studio Code** light theme (available on the Visual Studio Marketplace).
+Feel free to add comment or add issues at [github](https://github.com/feego/vscode-theme-fruity)!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Screenshots
+#### Javascript
+![Javascript](https://raw.githubusercontent.com/feego/vscode-theme-fruity/master/screenshots/javascript.png)
+#### CSS
+![CSS](https://raw.githubusercontent.com/feego/vscode-theme-fruity/master/screenshots/css.png)
+#### Markdown
+![Markdown](https://raw.githubusercontent.com/feego/vscode-theme-fruity/master/screenshots/markdown.png)
+#### Elm
+![Elm](https://raw.githubusercontent.com/feego/vscode-theme-fruity/master/screenshots/elm.png)
