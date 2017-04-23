@@ -1,7 +1,8 @@
 # Fruity Light Theme
 
 My **Visual Studio Code** light theme (available on the Visual Studio Marketplace).
-Feel free to add comment or add issues at [github](https://github.com/feego/vscode-theme-fruity)!
+
+Feel free to comment or add issues at [github](https://github.com/feego/vscode-theme-fruity)!
 
 ## Screenshots
 #### Javascript
